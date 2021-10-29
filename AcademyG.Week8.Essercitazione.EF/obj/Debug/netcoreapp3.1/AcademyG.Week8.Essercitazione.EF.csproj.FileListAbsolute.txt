@@ -1,0 +1,15 @@
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\bin\Debug\netcoreapp3.1\AcademyG.Week8.Essercitazione.EF.deps.json
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\bin\Debug\netcoreapp3.1\AcademyG.Week8.Essercitazione.EF.runtimeconfig.json
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\bin\Debug\netcoreapp3.1\AcademyG.Week8.Essercitazione.EF.runtimeconfig.dev.json
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\bin\Debug\netcoreapp3.1\AcademyG.Week8.Essercitazione.EF.dll
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\bin\Debug\netcoreapp3.1\AcademyG.Week8.Essercitazione.EF.pdb
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\bin\Debug\netcoreapp3.1\AcademyG.Week8.Esercitazione.Core.dll
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\bin\Debug\netcoreapp3.1\AcademyG.Week8.Esercitazione.Core.pdb
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\obj\Debug\netcoreapp3.1\AcademyG.Week8.Essercitazione.EF.csproj.AssemblyReference.cache
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\obj\Debug\netcoreapp3.1\AcademyG.Week8.Essercitazione.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\obj\Debug\netcoreapp3.1\AcademyG.Week8.Essercitazione.EF.AssemblyInfoInputs.cache
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\obj\Debug\netcoreapp3.1\AcademyG.Week8.Essercitazione.EF.AssemblyInfo.cs
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\obj\Debug\netcoreapp3.1\AcademyG.Week8.Essercitazione.EF.csproj.CoreCompileInputs.cache
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\obj\Debug\netcoreapp3.1\AcademyG.Week8.Essercitazione.EF.dll
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\obj\Debug\netcoreapp3.1\AcademyG.Week8.Essercitazione.EF.pdb
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Essercitazione.EF\obj\Debug\netcoreapp3.1\AcademyG.Week8.Essercitazione.EF.genruntimeconfig.cache

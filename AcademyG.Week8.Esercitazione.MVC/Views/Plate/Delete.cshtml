@@ -1,0 +1,15 @@
+﻿@model PlateViewModel
+
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Description - @Model.Type - @Model.Price</p>
+    </div>
+
+    <form class="col-lg-6 col-md-6 col-sm-12" asp-controller="Plate" asp-action="Delete" method="post">
+        <div>Vuoi eliminare questo prodotto</div>
+
+        <input type="submit" value="Si" class="btn btn-success" />
+        <a type="button" value="Cancel" asp-controller="Menu" asp-action="Index" class="btn btn-danger">No</a>
+    </form>
+</div>

@@ -1,0 +1,10 @@
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Esercitazione.Core\bin\Debug\netcoreapp3.1\AcademyG.Week8.Esercitazione.Core.deps.json
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Esercitazione.Core\bin\Debug\netcoreapp3.1\AcademyG.Week8.Esercitazione.Core.dll
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Esercitazione.Core\bin\Debug\netcoreapp3.1\AcademyG.Week8.Esercitazione.Core.pdb
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Esercitazione.Core\obj\Debug\netcoreapp3.1\AcademyG.Week8.Esercitazione.Core.csproj.AssemblyReference.cache
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Esercitazione.Core\obj\Debug\netcoreapp3.1\AcademyG.Week8.Esercitazione.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Esercitazione.Core\obj\Debug\netcoreapp3.1\AcademyG.Week8.Esercitazione.Core.AssemblyInfoInputs.cache
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Esercitazione.Core\obj\Debug\netcoreapp3.1\AcademyG.Week8.Esercitazione.Core.AssemblyInfo.cs
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Esercitazione.Core\obj\Debug\netcoreapp3.1\AcademyG.Week8.Esercitazione.Core.csproj.CoreCompileInputs.cache
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Esercitazione.Core\obj\Debug\netcoreapp3.1\AcademyG.Week8.Esercitazione.Core.dll
+C:\Users\debora.spano\Desktop\Test.Week8\AcademyG.Week8.Esercitazione\AcademyG.Week8.Esercitazione.Core\obj\Debug\netcoreapp3.1\AcademyG.Week8.Esercitazione.Core.pdb

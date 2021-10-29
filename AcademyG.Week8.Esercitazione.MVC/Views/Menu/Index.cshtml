@@ -1,0 +1,47 @@
+﻿@model IEnumerable<MenuViewModel>
+
+<h1>Lista dei Menù</h1>
+<div class="cols-5 ">
+    @if (User.IsInRole("Restaurant"))
+    {
+        <a type="button" value="Create" asp-controller="Menu" asp-action="Create" class="btn btn-primary"><i class="fa fa-plus"></i></a>
+    }
+    <ul>
+        @foreach (var m in @Model)
+        {
+            <li class="row">
+                <a class="nav-link text-dark" asp-area="" asp-controller="Menu" asp-action="Detail" asp-route-id="@m.Name">
+                    <h3><i class="fa fa-book" aria-hidden="true"></i>@m.Name</h3>
+                </a>
+                <a type="button" value="Detail" asp-controller="Menu" asp-action="Detail" asp-route-id="@m.Name" class="btn btn-primary"><i class="fa fa-eye"></i></a>
+                @if (User.IsInRole("Restaurant"))
+                {
+                    <a type="button" value="Edit" asp-controller="Menu" asp-action="Edit" asp-route-id="@m.Id" class="btn btn-success"><i class="fa fa-edit"></i></a>
+                    <a type="button" value="Delete" onclick="deleteMenu(@m.Id)" class="btn btn-danger"><i class="fa fa-trash"></i></a>
+                }
+            </li>
+        }
+    </ul>
+</div>
+
+@section Scripts{
+    <script>
+        function deleteMenu(menuId) {
+            let confirmation = confirm("Are ypu sure you want to delete Menu #" + menuId + "?");
+
+            if (!confirmation)
+                return;
+
+            $.ajax({
+                type: 'GET',
+                url: `@Url.Action("Delete", "Menu")/${menuId}`,
+                contentType: 'application/json; charset=utf-8',
+                success: (data) => {
+                    if (data) {
+                        location.href = "@Url.Action("Index", "Menu")"
+                    }
+                }
+            })
+        }
+    </script>
+}
